@@ -19,7 +19,7 @@ Based on the results of the analysis, a conclusion was made about the model's ab
 For more information about the pipeline and its implementation, please refer to the code in this repository.
 
 ## Advanced Model - 
-This repository contains a machine learning pipeline that predicts the area where a sound recording took place using the MLEndLS dataset. The pipeline classifies recordings into 6 different areas and creates a confusion matrix to analyze precision, recall, and accuracy for each class. The most dominant class is also determined.
+The Advanced Model contains a machine learning pipeline that predicts the area where a sound recording took place using the MLEndLS dataset. The pipeline classifies recordings into 6 different areas and creates a confusion matrix to analyze precision, recall, and accuracy for each class. The most dominant class is also determined.
 
 A. Loading the Dataset
 The .wav files from the MLEndLS dataset were loaded using the provided link.
